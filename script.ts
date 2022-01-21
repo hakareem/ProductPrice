@@ -4,7 +4,7 @@ class Product{
     productPrice : number = 0
     servings : number = 0
 
-
+ 
     constructor(productName:string,productPrice:number,servings:number){
         this.productName=productName
         this.productPrice=productPrice
